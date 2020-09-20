@@ -1,7 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: COMP4461 Porfolio
 published: true
 ---
-#  COMP4461 Porfolio
+
 ## Welcome to Min Soo's porfolio!
